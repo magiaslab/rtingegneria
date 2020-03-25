@@ -16,14 +16,7 @@ export default class Home extends React.Component {
                     <GetSectionComponent key={section_idx} {...this.props} section={section} site={this.props.pageContext.site} />
                   )
               })}
-            <div class="hero-image">
-              <div class="hero-text">
-                <h1>I am John Doe</h1>
-                <p>And I'm a Photographer</p>
-                <button>Hire me</button>
-              </div>
-            </div>
-              <div className="post-feed">
+                         <div className="post-feed">
                 {_.map(display_posts, (post, post_idx) => (
                 <article key={post_idx} className="post post-card">
                   <div className="post-card-inside">
