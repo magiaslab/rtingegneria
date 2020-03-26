@@ -6,8 +6,8 @@ sections:
     section_id: intro
     component: Intro
     content: >-
-      **RT Studio offre progetti e soluzioni per l'efficientamento energetico
-      degli edifici. Ci occupiamo anche degli aspetti acustici e
+      ## ***RT Studio offre progetti e soluzioni per l'efficientamento
+      energetico degli edifici. Ci occupiamo anche degli aspetti acustici e
       dell'antincendio. Siamo specializzati nel design dell'involucro edilizio e
       degli impianti tecnologi al suo interno. Possiamo creare soluzioni per
       conseguire il miglior compromesso tra la qualità dell'abitare o del vivere
@@ -21,7 +21,7 @@ sections:
       finanziario siamo in grado di gestire tutta la pratica a partire dalla
       corretta diagnosi iniziale, passando alla produzione dei documenti
       necessari e fino al procurare il soggetto general contractor migliore per
-      il caso in esame.**
+      il caso in esame.***
     actions:
       - label: Scopri tutto
         url: /about
