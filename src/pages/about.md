@@ -1,7 +1,7 @@
 ---
 title: Chi Siamo
 subtitle: This is a short page about me and my work
-img_path: ''
+img_path: /images/dsc00031-3.jpg
 menus:
   main:
     title: About
