@@ -10,10 +10,11 @@ export default class Footer extends React.Component {
             <footer id="colophon" className="site-footer">
            
               <div className="inner">
+              <div className="site-info">
+                <p className="site-info">Ing. Riccardo Tognarini Via Pitagora, 3 57027 San Vincenzo (LI) P.iva 01290950490</p>
+              </div>
                 <div className="site-footer-inside">
-                <div className="site-info">
-                  <p className="site-info">Ing. Riccardo Tognarini Via Pitagora, 3 57027 San Vincenzo (LI) P.iva 01290950490</p>
-                </div>
+                
                   <p className="site-info">
                     {htmlToReact(_.get(this.props, 'pageContext.site.siteMetadata.footer.content'))}
                     &nbsp;
