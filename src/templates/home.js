@@ -36,7 +36,7 @@ export default class Home extends React.Component {
                       <div className="post-excerpt">
                         <p>{_.get(post, 'frontmatter.excerpt')}</p>
                         <p className="read-more">
-                          <Link className="button inverse" to={safePrefix(_.get(post, 'url'))}>Read more</Link>
+                          <Link className="button inverse" to={safePrefix(_.get(post, 'url'))}>Leggi tutto</Link>
                         </p>
                       </div>
                     </div>
