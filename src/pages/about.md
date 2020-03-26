@@ -1,7 +1,7 @@
 ---
 title: Chi Siamo
-subtitle: This is a short page about me and my work
-img_path: /images/dsc00031-3.jpg
+subtitle: Un viaggio che parte da lontano
+img_path: /images/ford-bronco-rosso-bianco-classic.jpg
 menus:
   main:
     title: About
