@@ -22,6 +22,9 @@ export default class Footer extends React.Component {
                   }
                 </div>
               </div>
+              <div>
+              <p>Ing. Riccardo Tognarini Via Pitagora, 3 57027 San Vincenzo (LI) P.iva 01290950490</p>
+             </div>
             </footer>
         );
     }
