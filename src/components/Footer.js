@@ -8,7 +8,7 @@ export default class Footer extends React.Component {
     render() {
         return (
             <footer id="colophon" className="site-footer">
-            <div className="preinner">
+            <div className="site-info">
               <p>Ing. Riccardo Tognarini Via Pitagora, 3 57027 San Vincenzo (LI) P.iva 01290950490</p>
             </div>
               <div className="inner">
